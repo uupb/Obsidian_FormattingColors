@@ -1,0 +1,23 @@
+
+
+:root body{
+    --text-highlight-bg: rgba(0, 255, 237, .65);
+    --text-highlight-bg-active: rgba(0, 150, 139, .65);
+}
+
+
+
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #E8E802;
+  font-style: normal !important; 
+  font-weight: normal !important;
+}
+
+/* Different color for italic */
+.cm-em,
+.markdown-preview-section em {
+  color: rgb(27, 151, 54);
+  font-style: normal !important; 
+}
