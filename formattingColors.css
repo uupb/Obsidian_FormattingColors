@@ -5,7 +5,11 @@
     --text-highlight-bg-active: rgba(0, 150, 139, .65);
 }
 
+/* Title Color */
 
+.inline-title {
+  color: #e4dfa3;
+}
 
 /* Different color for bold*/
 .cm-strong,
